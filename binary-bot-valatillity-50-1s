@@ -547,7 +547,7 @@
                 <field name="VAR" id="9tYE+D~/m75NpWN1$Oy@" variabletype="">PeriodoDeGrafico</field>
                 <value name="VALUE">
                   <block type="ohlc_values" id="jtVSqQ#.zpLd~D-Oz+g6">
-                    <field name="OHLCFIELD_LIST">open</field>
+                    <field name="OHLCFIELD_LIST">close</field>
                     <field name="CANDLEINTERVAL_LIST">default</field>
                   </block>
                 </value>
@@ -2493,7 +2493,7 @@
               </block>
             </statement>
             <next>
-              <block type="controls_if" id=")M,u{2{TeLQtlO;[@?S." collapsed="true">
+              <block type="controls_if" id=")M,u{2{TeLQtlO;[@?S.">
                 <mutation elseif="2"></mutation>
                 <value name="IF0">
                   <block type="logic_operation" id="0YQ79i~^5[Vamt,MRX,~">
