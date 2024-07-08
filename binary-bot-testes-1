@@ -11,10 +11,10 @@
     <field name="TIME_MACHINE_ENABLED">FALSE</field>
     <field name="RESTARTONERROR">TRUE</field>
     <statement name="INITIALIZATION">
-      <block type="text_print" id="pg`%ZOd}W7a]!-wM+KWz">
+      <block type="text_print" id="(E05V`)0:bJ),?v:vt0W">
         <value name="TEXT">
-          <shadow type="text" id="ym.MKpi@}vn[dURAui]!">
-            <field name="TEXT">Teste Rápido Iniciado!</field>
+          <shadow type="text" id=",H?mp$VN$`UrYYVvX_62">
+            <field name="TEXT">Teste Simples!</field>
           </shadow>
         </value>
       </block>
@@ -25,7 +25,7 @@
         <field name="BARRIEROFFSETTYPE_LIST">+</field>
         <field name="SECONDBARRIEROFFSETTYPE_LIST">-</field>
         <value name="DURATION">
-          <shadow type="math_number" id="$b8;K~UbddCCugqW$lT/">
+          <shadow type="math_number" id="ANuwU)@V-?,]f.6|ONuy">
             <field name="NUM">1</field>
           </shadow>
         </value>
