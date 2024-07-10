@@ -10,10 +10,8 @@
     <variable type="" id="8!:]82QftZVG(VZ6K=BD">BBA_UPPER</variable>
     <variable type="" id="3.uvfanbc,tyt=xQ]!uM">BBA_LOWER</variable>
   </variables>
-  <block type="procedures_defnoreturn" id="/:2!_^llrZ3(8tXOt0;g" collapsed="true" x="0" y="0">
-    <field name="NAME">XMLBotNew</field>
-    <comment pinned="false" h="80" w="160">Describe this function...</comment>
-    <statement name="STACK">
+  <block type="tick_analysis" id=",st#(_e@goqKG51ol:Ns" collapsed="true" x="-18" y="94">
+    <statement name="TICKANALYSIS_STACK">
       <block type="variables_set" id="aO3/+XinWkvyuu]A;Sr/">
         <field name="VAR" id="rroBGF2rw!WelR9,9iz|" variabletype="">Notificações</field>
         <value name="VALUE">
