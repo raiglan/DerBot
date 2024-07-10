@@ -20,7 +20,7 @@
     <field name="CANDLEINTERVAL_LIST">60</field>
     <field name="TIME_MACHINE_ENABLED">FALSE</field>
     <field name="RESTARTONERROR">TRUE</field>
-    <statement name="INITIALIZATION">
+    <statement name="SUBMARKET">
       <block type="tradeOptions" id="VU}*jn1tWDx%Kb#v^L4+">
         <field name="DURATIONTYPE_LIST">t</field>
         <field name="BARRIEROFFSETTYPE_LIST">+</field>
@@ -38,7 +38,7 @@
       </block>
     </statement>
   </block>
-  <block type="tick_analysis" id=",st#(_e@goqKG51ol:Ns" collapsed="true" x="0" y="401">
+  <block type="tick_analysis" id=",st#(_e@goqKG51ol:Ns" collapsed="true" x="6" y="392">
     <statement name="TICKANALYSIS_STACK">
       <block type="variables_set" id="aO3/+XinWkvyuu]A;Sr/">
         <field name="VAR" id="rroBGF2rw!WelR9,9iz|" variabletype="">Notificações</field>
